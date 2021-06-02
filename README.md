@@ -1,1 +1,1 @@
-# gh_gpl_clien
+# gh_gql_client
